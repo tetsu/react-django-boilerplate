@@ -1,1 +1,1 @@
-# react-django-boilerplate
+# react-flask-boilerplate
